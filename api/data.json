@@ -1,0 +1,1282 @@
+[
+    {
+        "archivedWorth": 219000,
+        "birthDate": 46915200000,
+        "date": 725846400000,
+        "estWorthPrev": 219797.128333,
+        "finalWorth": 219797.128,
+        "position": 1,
+        "privateAssetsWorth": 71754.51969,
+        "rank": 1,
+        "timestamp": 1665389101730,
+        "version": 734433,
+        "year": 0,
+        "bio": "",
+        "city": "Austin",
+        "countryOfCitizenship": "United States",
+        "gender": "M",
+        "lastName": "Musk",
+        "listUri": "rtb",
+        "name": "Real-Time Billionaires",
+        "naturalId": "faris/35/0/14117",
+        "personName": "Elon Musk",
+        "source": "Tesla, SpaceX",
+        "squareImage": "https://specials-images.forbesimg.com/imageserve/62d700cd6094d2c180f269b9/416x416.jpg?background=000000&cropX1=0&cropX2=959&cropY1=0&cropY2=959",
+        "state": "Texas",
+        "thumbnail": "http://specials-images.forbesimg.com/imageserve/62d700cd6094d2c180f269b9/280x425.jpg?fit=scale&background=000000",
+        "uri": "elon-musk",
+        "abouts": [
+            "Musk, who says he's worried about population collapse, has nine children with three women including triplets and two sets of twins.",
+            "As a kid in South Africa, Musk taught himself to code; he sold his first game, Blastar, for about $500."
+        ],
+        "bios": [
+            "Elon Musk cofounded six companies including electric car maker Tesla, rocket producer SpaceX and tunneling startup Boring Company.",
+            "He owns about 25% of Tesla between stock and options, but has pledged more than half his stock as collateral for loans.",
+            "SpaceX, founded in 2002, is worth $127 billion after a funding round in May 2022; it quadrupled its value in three years.",
+            "Boring Company, which aims to defeat traffic, raised $675 million in April 2022 at a $5.7 billion valuation.",
+            "Twitter's board agreed to sell the company to Musk for $44 billion in April 2022, after he disclosed a 9.1% stake and threatened a hostile takeover.",
+            "In July 2022, Musk announced he was terminating the deal over bot concerns. Twitter sued and the parties will go to court in October."
+        ],
+        "csfDisplayFields": [
+            "rank",
+            "age",
+            "source",
+            "finalWorth",
+            "personName",
+            "bios",
+            "bio",
+            "countryOfCitizenship"
+        ],
+        "financialAssets": [
+            {
+                "currentPrice": 223.07,
+                "exchangeRate": 1,
+                "numberOfShares": 398096919,
+                "sharePrice": 223.07,
+                "companyName": "Tesla",
+                "currencyCode": "USD",
+                "exchange": "NASDAQ",
+                "ticker": "TSLA-US",
+                "interactive": true
+            },
+            {
+                "currentPrice": 223.07,
+                "exchangeRate": 1,
+                "exerciseOptionPrice": 6.24,
+                "numberOfShares": 0,
+                "sharePrice": 223.07,
+                "companyName": "Tesla",
+                "currencyCode": "USD",
+                "exchange": "NASDAQ",
+                "ticker": "TSLA-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 223.07,
+                "exchangeRate": 1,
+                "exerciseOptionPrice": 23.33666666666667,
+                "numberOfShares": 278574999,
+                "sharePrice": 223.07,
+                "companyName": "Tesla",
+                "currencyCode": "USD",
+                "exchange": "NASDAQ",
+                "ticker": "TSLA-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 223.07,
+                "exchangeRate": 1,
+                "exerciseOptionPrice": 2.7886666666666664,
+                "numberOfShares": 6000,
+                "sharePrice": 223.07,
+                "companyName": "Tesla",
+                "currencyCode": "USD",
+                "exchange": "NASDAQ",
+                "ticker": "TSLA-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 223.07,
+                "exchangeRate": 1,
+                "exerciseOptionPrice": 6.670000000000001,
+                "numberOfShares": 6000,
+                "sharePrice": 223.07,
+                "companyName": "Tesla",
+                "currencyCode": "USD",
+                "exchange": "NASDAQ",
+                "ticker": "TSLA-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 49.18,
+                "exchangeRate": 1,
+                "numberOfShares": 73115000,
+                "sharePrice": 49.18,
+                "companyName": "Twitter, Inc.",
+                "currencyCode": "USD",
+                "exchange": "NYSE",
+                "ticker": "TWTR-US",
+                "interactive": false
+            }
+        ],
+        "industries": [
+            "Automotive"
+        ],
+        "person": {
+            "name": "Elon Musk",
+            "squareImage": "https://specials-images.forbesimg.com/imageserve/62d700cd6094d2c180f269b9/416x416.jpg?background=000000&cropX1=0&cropX2=959&cropY1=0&cropY2=959",
+            "uri": "elon-musk",
+            "imageExists": true
+        },
+        "bioSuppress": false,
+        "familyList": false,
+        "imageExists": true,
+        "interactive": true,
+        "visible": true,
+        "wealthList": false
+    },
+    {
+        "archivedWorth": 158000,
+        "birthDate": -657244800000,
+        "date": 725846400000,
+        "estWorthPrev": 146613.644583,
+        "finalWorth": 143602.47,
+        "position": 2,
+        "privateAssetsWorth": 1258.712398,
+        "rank": 2,
+        "timestamp": 1665389101730,
+        "version": 734362,
+        "year": 0,
+        "bio": "",
+        "city": "Paris",
+        "countryOfCitizenship": "France",
+        "gender": "M",
+        "lastName": "Arnault",
+        "listUri": "rtb",
+        "name": "Real-Time Billionaires",
+        "naturalId": "faris/35/0/4800",
+        "personName": "Bernard Arnault & family",
+        "source": "LVMH",
+        "squareImage": "//specials-images.forbesimg.com/imageserve/5dc05518ca425400079c659f/416x416.jpg?background=000000&cropX1=0&cropX2=4000&cropY1=1209&cropY2=5212",
+        "uri": "bernard-arnault",
+        "abouts": [
+            "Arnault apparently wooed his wife, Helene Mercier, a concert pianist, by playing Chopin and other classical composers on the piano.",
+            "Every Saturday, Arnault visits as many as 25 stores -- including both his and those of his competitors."
+        ],
+        "bios": [
+            "Bernard Arnault oversees the LVMH empire of some 70 fashion and cosmetics brands, including Louis Vuitton and Sephora.",
+            "In January 2021, LVMH acquired American jeweler Tiffany & Co for $15.8 billion, believed to be the biggest luxury brand acquisition ever.",
+            "LVMH spent $3.2 billion in 2019 for luxury hospitality group Belmond, which owns or manages 46 hotels, trains and river cruises.",
+            "His father made a small fortune in construction; Arnault got his start by putting up $15 million from that business to buy Christian Dior in 1985.",
+            "Four of Arnault's five children work in corners of the LVMH empire: Frédéric, Delphine, Antoine and Alexandre."
+        ],
+        "csfDisplayFields": [
+            "rank",
+            "age",
+            "source",
+            "finalWorth",
+            "personName",
+            "bios",
+            "bio",
+            "countryOfCitizenship"
+        ],
+        "financialAssets": [
+            {
+                "exchangeRate": 1.0219,
+                "numberOfShares": 0,
+                "sharePrice": 14.09139837557491,
+                "companyName": "Carrefour S.A.",
+                "currencyCode": "EUR",
+                "exchange": "EURONEXT PARIS",
+                "ticker": "CA-FR",
+                "interactive": false
+            },
+            {
+                "exchangeRate": 1.0219,
+                "numberOfShares": 1974000,
+                "sharePrice": 1237.8902045209902,
+                "companyName": "Hermes International S.C.A.",
+                "currencyCode": "EUR",
+                "exchange": "EURONEXT PARIS",
+                "ticker": "RMS-FR",
+                "interactive": false
+            },
+            {
+                "exchangeRate": 1.0219,
+                "numberOfShares": 236236000,
+                "sharePrice": 604.951560818084,
+                "companyName": "LVMH Moet Hennessy Louis Vuitton",
+                "currencyCode": "EUR",
+                "exchange": "EURONEXT PARIS",
+                "ticker": "MC-FR",
+                "interactive": false
+            }
+        ],
+        "industries": [
+            "Fashion & Retail"
+        ],
+        "person": {
+            "name": "Bernard Arnault & family",
+            "squareImage": "//specials-images.forbesimg.com/imageserve/5dc05518ca425400079c659f/416x416.jpg?background=000000&cropX1=0&cropX2=4000&cropY1=1209&cropY2=5212",
+            "uri": "bernard-arnault",
+            "imageExists": true
+        },
+        "bioSuppress": false,
+        "familyList": false,
+        "imageExists": true,
+        "interactive": false,
+        "visible": true,
+        "wealthList": false
+    },
+    {
+        "archivedWorth": 171000,
+        "birthDate": -188438400000,
+        "date": 725846400000,
+        "estWorthPrev": 137990.339285,
+        "finalWorth": 137990.339,
+        "position": 3,
+        "privateAssetsWorth": 23873.46,
+        "rank": 3,
+        "timestamp": 1665389101730,
+        "version": 734429,
+        "year": 0,
+        "bio": "",
+        "city": "Medina",
+        "countryOfCitizenship": "United States",
+        "gender": "M",
+        "lastName": "Bezos",
+        "listUri": "rtb",
+        "name": "Real-Time Billionaires",
+        "naturalId": "faris/35/0/6713",
+        "personName": "Jeff Bezos",
+        "source": "Amazon",
+        "squareImage": "https://specials-images.forbesimg.com/imageserve/5bb22ae84bbe6f67d2e82e05/416x416.jpg?background=000000&cropX1=627&cropX2=1639&cropY1=129&cropY2=1142",
+        "state": "Washington",
+        "thumbnail": "http://specials-images.forbesimg.com/imageserve/5bb22ae84bbe6f67d2e82e05/280x425.jpg?fit=scale&background=000000",
+        "uri": "jeff-bezos",
+        "abouts": [
+            "Growing up, Jeff Bezos worked summers on his grandfather's ranch repairing Caterpillar tractors.",
+            "Bezos met Google founders Larry Page and Sergey Brin in 1998 and managed to become one of the company's first angel investors, putting in an estimated $250,000."
+        ],
+        "bios": [
+            "Jeff Bezos founded e-commerce giant Amazon in 1994 out of his garage in Seattle. He stepped down as CEO to become executive chairman in July 2021.",
+            "He now owns a bit less than 10% of the company.",
+            "He and his wife MacKenzie divorced in 2019 after 25 years of marriage and he transferred a quarter of his then-16% Amazon stake to her.",
+            "Bezos has donated more than $400 million worth of stock to nonprofits in 2022, though it's unclear which organizations received those shares.",
+            "Bezos owns The Washington Post and Blue Origin, an aerospace company developing rockets; he briefly flew to space in one in July 2021."
+        ],
+        "csfDisplayFields": [
+            "rank",
+            "age",
+            "source",
+            "finalWorth",
+            "personName",
+            "bios",
+            "bio",
+            "countryOfCitizenship"
+        ],
+        "financialAssets": [
+            {
+                "currentPrice": 114.56,
+                "exchangeRate": 1,
+                "numberOfShares": 996131977,
+                "sharePrice": 114.56,
+                "companyName": "Amazon",
+                "currencyCode": "USD",
+                "exchange": "NASDAQ",
+                "ticker": "AMZN-US",
+                "interactive": true
+            }
+        ],
+        "industries": [
+            "Technology"
+        ],
+        "person": {
+            "name": "Jeff Bezos",
+            "squareImage": "https://specials-images.forbesimg.com/imageserve/5bb22ae84bbe6f67d2e82e05/416x416.jpg?background=000000&cropX1=627&cropX2=1639&cropY1=129&cropY2=1142",
+            "uri": "jeff-bezos",
+            "imageExists": true
+        },
+        "bioSuppress": false,
+        "familyList": false,
+        "imageExists": true,
+        "interactive": true,
+        "visible": true,
+        "wealthList": false
+    },
+    {
+        "archivedWorth": 90000,
+        "birthDate": -237427200000,
+        "date": 725846400000,
+        "estWorthPrev": 132172.11236,
+        "finalWorth": 130389.82,
+        "position": 4,
+        "privateAssetsWorth": -5818.72957,
+        "rank": 4,
+        "timestamp": 1665389101730,
+        "version": 495070,
+        "year": 0,
+        "bio": "",
+        "city": "Ahmedabad",
+        "countryOfCitizenship": "India",
+        "gender": "M",
+        "lastName": "Adani",
+        "listUri": "rtb",
+        "name": "Real-Time Billionaires",
+        "naturalId": "faris/35/0/199925",
+        "personName": "Gautam Adani & family",
+        "source": "infrastructure, commodities",
+        "squareImage": "https://specials-images.forbesimg.com/imageserve/59cd4d61a7ea434a34f47b11/416x416.jpg?background=000000&cropX1=891&cropX2=4131&cropY1=69&cropY2=3309",
+        "uri": "gautam-adani-1",
+        "abouts": [
+            "Adani owns Abbot Point, a controversial coal mining project in Australia, whose Carmichael coal mine is billed as one of the world's largest. It took nine years for",
+            "Adani is a college dropout, who spurned his father's textile shop to set up a commodities export firm in 1988.\r\n",
+            "Adani survived the terrorist attack in Mumbai's Taj Mahal Palace Hotel in 2008. \r\n"
+        ],
+        "bios": [
+            "Infrastructure tycoon Gautam Adani controls Mundra Port, India's largest, in his home state of Gujarat.",
+            "His $13 billion (revenue) Adani Group's interests span infrastructure, commodities, power generation and transmission and real estate.",
+            "Adani acquired a 74% stake in Mumbai International Airport, India's second-busiest, in September 2020. He's now the country's biggest airport operator.",
+            "Adani wants to be the world's largest producer of green energy and has said he will invest upto $70 billion on renewable energy projects.",
+            "In May 2022, he made a big entry into cement when he won the race to acquire Swiss giant Holcim's cement business in India for $10.5 billion."
+        ],
+        "csfDisplayFields": [
+            "rank",
+            "age",
+            "source",
+            "finalWorth",
+            "personName",
+            "bios",
+            "bio",
+            "countryOfCitizenship"
+        ],
+        "financialAssets": [
+            {
+                "exchangeRate": 82.3281,
+                "numberOfShares": 12470000,
+                "sharePrice": 28.9791699310442,
+                "companyName": "ACC",
+                "currencyCode": "INR",
+                "exchange": "BSE INDIA",
+                "ticker": "500410-IN",
+                "interactive": false
+            },
+            {
+                "exchangeRate": 82.3281,
+                "numberOfShares": 808300000,
+                "sharePrice": 39.81022275504961,
+                "companyName": "Adani Enterprises",
+                "currencyCode": "INR",
+                "exchange": "BSE INDIA",
+                "ticker": "512599-IN",
+                "interactive": false
+            },
+            {
+                "exchangeRate": 82.3281,
+                "numberOfShares": 411300000,
+                "sharePrice": 38.7030673609618,
+                "companyName": "Adani Gas",
+                "currencyCode": "INR",
+                "exchange": "BSE INDIA",
+                "ticker": "542066-IN",
+                "interactive": false
+            },
+            {
+                "exchangeRate": 82.3281,
+                "numberOfShares": 947800000,
+                "sharePrice": 26.781864272344436,
+                "companyName": "Adani Green Energy",
+                "currencyCode": "INR",
+                "exchange": "BSE INDIA",
+                "ticker": "541450-IN",
+                "interactive": false
+            },
+            {
+                "exchangeRate": 82.3281,
+                "numberOfShares": 1303400000,
+                "sharePrice": 9.921278397047908,
+                "companyName": "Adani Port & Special Economic Zone",
+                "currencyCode": "INR",
+                "exchange": "BSE INDIA",
+                "ticker": "532921-IN",
+                "interactive": false
+            },
+            {
+                "exchangeRate": 82.3281,
+                "numberOfShares": 2525350000,
+                "sharePrice": 4.520327810310209,
+                "companyName": "Adani Power",
+                "currencyCode": "INR",
+                "exchange": "BSE INDIA",
+                "ticker": "533096-IN",
+                "interactive": false
+            },
+            {
+                "exchangeRate": 82.3281,
+                "numberOfShares": 799600000,
+                "sharePrice": 39.82722788452545,
+                "companyName": "Adani Transmission",
+                "currencyCode": "INR",
+                "exchange": "BSE INDIA",
+                "ticker": "539254-IN",
+                "interactive": false
+            },
+            {
+                "exchangeRate": 82.3281,
+                "numberOfShares": 1253800000,
+                "sharePrice": 6.345342598699593,
+                "companyName": "Ambuja Cements Ltd.",
+                "currencyCode": "INR",
+                "exchange": "BSE INDIA",
+                "ticker": "500425-IN",
+                "interactive": false
+            }
+        ],
+        "industries": [
+            "Diversified"
+        ],
+        "person": {
+            "name": "Gautam Adani & family",
+            "squareImage": "https://specials-images.forbesimg.com/imageserve/59cd4d61a7ea434a34f47b11/416x416.jpg?background=000000&cropX1=891&cropX2=4131&cropY1=69&cropY2=3309",
+            "uri": "gautam-adani-1",
+            "imageExists": false
+        },
+        "bioSuppress": false,
+        "familyList": false,
+        "imageExists": false,
+        "interactive": false,
+        "visible": true,
+        "wealthList": false
+    },
+    {
+        "archivedWorth": 129000,
+        "birthDate": -447465600000,
+        "date": 725846400000,
+        "estWorthPrev": 100987.151371,
+        "finalWorth": 100971.267,
+        "position": 5,
+        "privateAssetsWorth": 37972.5,
+        "rank": 5,
+        "timestamp": 1665389101730,
+        "version": 734478,
+        "year": 0,
+        "bio": "",
+        "city": "Medina",
+        "countryOfCitizenship": "United States",
+        "gender": "M",
+        "lastName": "Gates",
+        "listUri": "rtb",
+        "name": "Real-Time Billionaires",
+        "naturalId": "faris/35/0/5772",
+        "personName": "Bill Gates",
+        "source": "Microsoft",
+        "squareImage": "https://specials-images.forbesimg.com/imageserve/62d599ede3ff49f348f9b9b4/416x416.jpg?background=000000&cropX1=155&cropX2=976&cropY1=340&cropY2=1161",
+        "state": "Washington",
+        "thumbnail": "http://specials-images.forbesimg.com/imageserve/62d599ede3ff49f348f9b9b4/280x425.jpg?fit=scale&background=000000",
+        "uri": "bill-gates",
+        "abouts": [
+            "When Gates was a kid, he spent so much time reading that his parents finally forbade him from bringing books to the dinner table.",
+            "Gates took a break from classes his senior year in high school to do programming with his friend Paul Allen at a power plant in North Bonneville, Washington."
+        ],
+        "bios": [
+            "Bill Gates turned his fortune from software firm Microsoft into diversified holdings including investments in zero-carbon energy.",
+            "In May 2021, Bill and Melinda Gates each announced on Twitter they were ending their marriage after 27 years. They still co-chair the charitable Gates Foundation.",
+            "Gates, who cofounded Microsoft with Paul Allen (d. 2018) in 1975, transferred at least $6 billion worth of shares in public companies to Melinda as part of the divorce settlement. ",
+            "As of March 2020, when Gates stepped down from the Microsoft board, he owned about 1.3% of the software and computing company's shares.",
+            "He has invested in dozens of companies including Republic Services and Deere & Co., and is one of the largest owners of farmland in the U.S.",
+            "To date, Gates has donated nearly $57 billion to the Gates Foundation, including a $20 billion gift announced in July 2022. Most of his early donations were gifts of Microsoft stock."
+        ],
+        "csfDisplayFields": [
+            "rank",
+            "age",
+            "source",
+            "finalWorth",
+            "personName",
+            "bios",
+            "bio",
+            "countryOfCitizenship"
+        ],
+        "financialAssets": [
+            {
+                "currentPrice": 45.67,
+                "exchangeRate": 1,
+                "numberOfShares": 0,
+                "sharePrice": 45.67,
+                "companyName": "Arch Capital Group",
+                "currencyCode": "USD",
+                "exchange": "NASDAQ",
+                "ticker": "ACGL-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 7.57,
+                "exchangeRate": 1,
+                "numberOfShares": 0,
+                "sharePrice": 7.57,
+                "companyName": "Arcos Dorados Holdings Inc",
+                "currencyCode": "USD",
+                "exchange": "NYSE",
+                "ticker": "ARCO-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 100.82,
+                "exchangeRate": 1,
+                "numberOfShares": 9871000,
+                "sharePrice": 100.82,
+                "companyName": "AutoNation Inc.",
+                "currencyCode": "USD",
+                "exchange": "NYSE",
+                "ticker": "AN-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 406009.98,
+                "exchangeRate": 1,
+                "numberOfShares": 4350,
+                "sharePrice": 406010,
+                "companyName": "Berkshire Hathaway Inc. (Cl A)",
+                "currencyCode": "USD",
+                "exchange": "NYSE",
+                "ticker": "BRK.A-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 109.78,
+                "exchangeRate": 1,
+                "numberOfShares": 9534000,
+                "sharePrice": 109.78,
+                "companyName": "Canadian National Railway Co.",
+                "currencyCode": "USD",
+                "exchange": "NYSE",
+                "ticker": "CNI-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 59.92,
+                "exchangeRate": 1,
+                "numberOfShares": 0,
+                "sharePrice": 59.92,
+                "companyName": "Coca-Cola FEMSA S.A.B de C.V.",
+                "currencyCode": "USD",
+                "exchange": "NYSE",
+                "ticker": "KOF-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 356.15,
+                "exchangeRate": 1,
+                "numberOfShares": 19771000,
+                "sharePrice": 356.15,
+                "companyName": "Deere & Co",
+                "currencyCode": "USD",
+                "exchange": "NYSE",
+                "ticker": "DE-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 143.51,
+                "exchangeRate": 1,
+                "numberOfShares": 31185500,
+                "sharePrice": 143.51,
+                "companyName": "Ecolab",
+                "currencyCode": "USD",
+                "exchange": "NYSE",
+                "ticker": "ECL-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 2.17,
+                "exchangeRate": 1,
+                "numberOfShares": 15050000,
+                "sharePrice": 2.17,
+                "companyName": "Evolv Technologies Holdings",
+                "currencyCode": "USD",
+                "exchange": "NASDAQ",
+                "ticker": "EVLV-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 1.7,
+                "exchangeRate": 1,
+                "numberOfShares": 209000,
+                "sharePrice": 1.7,
+                "companyName": "Exicure",
+                "currencyCode": "USD",
+                "exchange": "NASDAQ",
+                "ticker": "XCUR-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 7.867697426362657,
+                "exchangeRate": 1.0219,
+                "numberOfShares": 10707368,
+                "sharePrice": 7.926411586260886,
+                "companyName": "Fomento de Construcciones y Contrata",
+                "currencyCode": "EUR",
+                "exchange": "MADRID",
+                "ticker": "FCC-ES",
+                "interactive": false
+            },
+            {
+                "currentPrice": 63.67,
+                "exchangeRate": 1,
+                "numberOfShares": 10810000,
+                "sharePrice": 63.67,
+                "companyName": "Fomento Economico Mex-SP ADR",
+                "currencyCode": "USD",
+                "exchange": "NYSE",
+                "ticker": "FMX-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 3.09,
+                "exchangeRate": 1,
+                "numberOfShares": 139900000,
+                "sharePrice": 3.09,
+                "companyName": "Ginkgo Bioworks Holdings",
+                "currencyCode": "USD",
+                "exchange": "NYSE",
+                "ticker": "DNA-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 2998.2861175521725,
+                "exchangeRate": 0.9919,
+                "numberOfShares": 1289000,
+                "sharePrice": 3005.3432805726384,
+                "companyName": "Givaudan S.A.",
+                "currencyCode": "CHF",
+                "exchange": "SIX SWISS",
+                "ticker": "GIVN-CH",
+                "interactive": false
+            },
+            {
+                "currentPrice": 1.0561253774550174,
+                "exchangeRate": 20.0355,
+                "numberOfShares": 0,
+                "sharePrice": 1.0561253774550174,
+                "companyName": "Grupo Televisa S.A.B Unit Class A (TLEVISACPO-MX)",
+                "currencyCode": "MXN",
+                "exchange": "MEXICO",
+                "ticker": "TLEVISACPO-MX",
+                "interactive": false
+            },
+            {
+                "currentPrice": 234.24,
+                "exchangeRate": 1,
+                "numberOfShares": 102992000,
+                "sharePrice": 234.24,
+                "companyName": "Microsoft",
+                "currencyCode": "USD",
+                "exchange": "NASDAQ",
+                "ticker": "MSFT-US",
+                "interactive": true
+            },
+            {
+                "currentPrice": 41.961052940600844,
+                "exchangeRate": 1.0219,
+                "numberOfShares": 0,
+                "sharePrice": 41.569625207945975,
+                "companyName": "OCI NV",
+                "currencyCode": "EUR",
+                "exchange": "EURONEXT AMSTERDAM",
+                "ticker": "OCI-NL",
+                "interactive": false
+            },
+            {
+                "currentPrice": 11.061546286876908,
+                "exchangeRate": 19.66,
+                "numberOfShares": 0,
+                "sharePrice": 11.061546286876908,
+                "companyName": "Orascom Construction Industries S.A.",
+                "currencyCode": "EGP",
+                "exchange": "EGYPT",
+                "ticker": "OCIC-EG",
+                "interactive": false
+            },
+            {
+                "currentPrice": 61.75,
+                "exchangeRate": 1,
+                "numberOfShares": 3456000,
+                "sharePrice": 61.75,
+                "companyName": "Otter Tail Corp.",
+                "currencyCode": "USD",
+                "exchange": "NASDAQ",
+                "ticker": "OTTR-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 129.23,
+                "exchangeRate": 1,
+                "numberOfShares": 109812000,
+                "sharePrice": 129.23,
+                "companyName": "Republic Services",
+                "currencyCode": "USD",
+                "exchange": "NYSE",
+                "ticker": "RSG-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 4.408817635270541,
+                "exchangeRate": 0.8982,
+                "numberOfShares": 142395000,
+                "sharePrice": 4.408817635270541,
+                "companyName": "Signature Aviation Plc",
+                "currencyCode": "GBP",
+                "exchange": "LONDON",
+                "ticker": "SIG-GB",
+                "interactive": false
+            },
+            {
+                "currentPrice": 205.56507712471014,
+                "exchangeRate": 0.9919,
+                "numberOfShares": 4073000.0000000005,
+                "sharePrice": 207.0773263433814,
+                "companyName": "Sika",
+                "currencyCode": "CHF",
+                "exchange": "SIX SWISS",
+                "ticker": "SIKA-CH",
+                "interactive": false
+            },
+            {
+                "currentPrice": 0,
+                "exchangeRate": 1,
+                "numberOfShares": 13240000,
+                "sharePrice": 0,
+                "companyName": "Strategic Hotels & Resorts, Inc.",
+                "currencyCode": "USD",
+                "exchange": "NYSE",
+                "ticker": "BEE-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 1.13,
+                "exchangeRate": 1,
+                "numberOfShares": 0,
+                "sharePrice": 1.13,
+                "companyName": "Vroom",
+                "currencyCode": "USD",
+                "exchange": "NASDAQ",
+                "ticker": "VRM-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 155.24,
+                "exchangeRate": 1,
+                "numberOfShares": 16600000.000000002,
+                "sharePrice": 155.24,
+                "companyName": "Waste Management",
+                "currencyCode": "USD",
+                "exchange": "NYSE",
+                "ticker": "WM-US",
+                "interactive": false
+            }
+        ],
+        "industries": [
+            "Technology"
+        ],
+        "person": {
+            "name": "Bill Gates",
+            "squareImage": "https://specials-images.forbesimg.com/imageserve/62d599ede3ff49f348f9b9b4/416x416.jpg?background=000000&cropX1=155&cropX2=976&cropY1=340&cropY2=1161",
+            "uri": "bill-gates",
+            "imageExists": true
+        },
+        "bioSuppress": false,
+        "familyList": false,
+        "imageExists": true,
+        "interactive": false,
+        "visible": true,
+        "wealthList": false
+    },
+    {
+        "archivedWorth": 118000,
+        "birthDate": -1241481600000,
+        "date": 725846400000,
+        "estWorthPrev": 93944.357215,
+        "finalWorth": 93944.353,
+        "position": 6,
+        "privateAssetsWorth": 934,
+        "rank": 6,
+        "timestamp": 1665389101730,
+        "version": 734371,
+        "year": 0,
+        "bio": "",
+        "city": "Omaha",
+        "countryOfCitizenship": "United States",
+        "gender": "M",
+        "lastName": "Buffett",
+        "listUri": "rtb",
+        "name": "Real-Time Billionaires",
+        "naturalId": "faris/35/0/5381",
+        "personName": "Warren Buffett",
+        "source": "Berkshire Hathaway",
+        "squareImage": "//specials-images.forbesimg.com/imageserve/5babb7f1a7ea4342a948b79a/416x416.jpg?background=000000&cropX1=748&cropX2=3075&cropY1=1753&cropY2=4082",
+        "state": "Nebraska",
+        "uri": "warren-buffett",
+        "abouts": [
+            "Buffett still lives in the same Omaha, Nebraska, home he purchased in 1958 for $31,500.",
+            "Buffett was rejected from Harvard Business School; he got a master's in economics from Columbia University instead."
+        ],
+        "bios": [
+            "Known as the \"Oracle of Omaha,\" Warren Buffett is one of the most successful investors of all time.",
+            "Buffett runs Berkshire Hathaway, which owns dozens of companies, including insurer Geico, battery maker Duracell and restaurant chain Dairy Queen.",
+            "The son of a U.S. congressman, he first bought stock at age 11 and first filed taxes at age 13.",
+            "He has promised to donate over 99% of his wealth. So far he has given more than $49 billion, mostly to the Gates Foundation and his kids' foundations.",
+            "In 2010, he and Bill Gates launched the Giving Pledge, asking billionaires to commit to donating at least half of their wealth to charitable causes."
+        ],
+        "csfDisplayFields": [
+            "rank",
+            "age",
+            "source",
+            "finalWorth",
+            "personName",
+            "bios",
+            "bio",
+            "countryOfCitizenship"
+        ],
+        "financialAssets": [
+            {
+                "currentPrice": 406009.98,
+                "exchangeRate": 1,
+                "numberOfShares": 229016,
+                "sharePrice": 406010,
+                "companyName": "Berkshire Hathaway Inc. (Cl A)",
+                "currencyCode": "USD",
+                "exchange": "NYSE",
+                "ticker": "BRK.A-US",
+                "interactive": true
+            },
+            {
+                "currentPrice": 269.04,
+                "exchangeRate": 1,
+                "numberOfShares": 276,
+                "sharePrice": 269.04,
+                "companyName": "Berkshire Hathaway Inc. (Cl B)",
+                "currencyCode": "USD",
+                "exchange": "NYSE",
+                "ticker": "BRK.B-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 40.2,
+                "exchangeRate": 1,
+                "numberOfShares": 684000,
+                "sharePrice": 40.2,
+                "companyName": "U.S. Bancorp",
+                "currencyCode": "USD",
+                "exchange": "NYSE",
+                "ticker": "USB-US",
+                "interactive": false
+            }
+        ],
+        "industries": [
+            "Finance & Investments"
+        ],
+        "person": {
+            "name": "Warren Buffett",
+            "squareImage": "//specials-images.forbesimg.com/imageserve/5babb7f1a7ea4342a948b79a/416x416.jpg?background=000000&cropX1=748&cropX2=3075&cropY1=1753&cropY2=4082",
+            "uri": "warren-buffett",
+            "imageExists": true
+        },
+        "bioSuppress": false,
+        "familyList": false,
+        "imageExists": true,
+        "interactive": true,
+        "visible": true,
+        "wealthList": false
+    },
+    {
+        "archivedWorth": 106000,
+        "birthDate": -800755200000,
+        "date": 725846400000,
+        "estWorthPrev": 87096.781737,
+        "finalWorth": 87096.782,
+        "position": 7,
+        "privateAssetsWorth": 9092.144168,
+        "rank": 7,
+        "timestamp": 1665389101730,
+        "version": 734366,
+        "year": 0,
+        "bio": "",
+        "city": "Lanai",
+        "countryOfCitizenship": "United States",
+        "gender": "M",
+        "lastName": "Ellison",
+        "listUri": "rtb",
+        "name": "Real-Time Billionaires",
+        "naturalId": "faris/35/0/5574",
+        "personName": "Larry Ellison",
+        "source": "Oracle",
+        "squareImage": "//specials-images.forbesimg.com/imageserve/5e8b62cfc095010007bffea0/416x416.jpg?background=000000&cropX1=0&cropX2=4529&cropY1=652&cropY2=5184",
+        "state": "Hawaii",
+        "uri": "larry-ellison",
+        "abouts": [
+            "Ellison never finished college. He started out building databases for the CIA.",
+            "Daughter Megan has financed films such as Zero Dark Thirty and American Hustle; son David produced mainstream movies like The Terminator and Mission: Impossible."
+        ],
+        "bios": [
+            "Larry Ellison is chairman, chief technology officer and cofounder of software giant Oracle, of which he owns about 35%.",
+            "He gave up the Oracle CEO role in 2014 after 37 years at the helm.",
+            "Oracle has grown in part through steady acquisitions of software companies, the biggest of which was $28.3 billion for electronic health records company Cerner in 2021",
+            "In 2020, Ellison moved permanently to  the Hawaiian island Lanai, which he bought nearly all of in 2012 for $300 million.",
+            "Ellison sat on the board of Tesla from December 2018 to August 2022. He still owns about 15 million shares in the electric carmaker"
+        ],
+        "csfDisplayFields": [
+            "rank",
+            "age",
+            "source",
+            "finalWorth",
+            "personName",
+            "bios",
+            "bio",
+            "countryOfCitizenship"
+        ],
+        "financialAssets": [
+            {
+                "currentPrice": 63.29,
+                "exchangeRate": 1,
+                "numberOfShares": 1066000000,
+                "sharePrice": 63.29,
+                "companyName": "Oracle",
+                "currencyCode": "USD",
+                "exchange": "NYSE",
+                "ticker": "ORCL-US",
+                "interactive": true
+            },
+            {
+                "currentPrice": 63.29,
+                "exchangeRate": 1,
+                "exerciseOptionPrice": 40.47,
+                "numberOfShares": 2250000,
+                "sharePrice": 63.29,
+                "companyName": "Oracle",
+                "currencyCode": "USD",
+                "exchange": "NYSE",
+                "ticker": "ORCL-US",
+                "interactive": true
+            },
+            {
+                "currentPrice": 63.29,
+                "exchangeRate": 1,
+                "exerciseOptionPrice": 30.11,
+                "numberOfShares": 7000000,
+                "sharePrice": 63.29,
+                "companyName": "Oracle",
+                "currencyCode": "USD",
+                "exchange": "NYSE",
+                "ticker": "ORCL-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 63.29,
+                "exchangeRate": 1,
+                "exerciseOptionPrice": 51.13,
+                "numberOfShares": 2500000,
+                "sharePrice": 63.29,
+                "companyName": "Oracle",
+                "currencyCode": "USD",
+                "exchange": "NYSE",
+                "ticker": "ORCL-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 223.07,
+                "exchangeRate": 1,
+                "numberOfShares": 45018750,
+                "sharePrice": 223.07,
+                "companyName": "Tesla",
+                "currencyCode": "USD",
+                "exchange": "NASDAQ",
+                "ticker": "TSLA-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 223.07,
+                "exchangeRate": 1,
+                "exerciseOptionPrice": 14.982666666666667,
+                "numberOfShares": 750000,
+                "sharePrice": 223.07,
+                "companyName": "Tesla",
+                "currencyCode": "USD",
+                "exchange": "NASDAQ",
+                "ticker": "TSLA-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 223.07,
+                "exchangeRate": 1,
+                "exerciseOptionPrice": 22.33,
+                "numberOfShares": 125010.00000000001,
+                "sharePrice": 223.07,
+                "companyName": "Tesla",
+                "currencyCode": "USD",
+                "exchange": "NASDAQ",
+                "ticker": "TSLA-US",
+                "interactive": false
+            }
+        ],
+        "industries": [
+            "Technology"
+        ],
+        "person": {
+            "name": "Larry Ellison",
+            "squareImage": "//specials-images.forbesimg.com/imageserve/5e8b62cfc095010007bffea0/416x416.jpg?background=000000&cropX1=0&cropX2=4529&cropY1=652&cropY2=5184",
+            "uri": "larry-ellison",
+            "imageExists": true
+        },
+        "bioSuppress": false,
+        "familyList": false,
+        "imageExists": true,
+        "interactive": true,
+        "visible": true,
+        "wealthList": false
+    },
+    {
+        "archivedWorth": 111000,
+        "birthDate": 101952000000,
+        "date": 725846400000,
+        "estWorthPrev": 85638.065708,
+        "finalWorth": 85638.066,
+        "position": 8,
+        "privateAssetsWorth": 8387.086319,
+        "rank": 8,
+        "timestamp": 1665389101730,
+        "version": 734374,
+        "year": 0,
+        "bio": "",
+        "city": "Palo Alto",
+        "countryOfCitizenship": "United States",
+        "gender": "M",
+        "lastName": "Page",
+        "listUri": "rtb",
+        "name": "Real-Time Billionaires",
+        "naturalId": "faris/35/0/7441",
+        "personName": "Larry Page",
+        "source": "Google",
+        "squareImage": "//specials-images.forbesimg.com/imageserve/5c76bcaaa7ea43100043c836/416x416.jpg?background=000000&cropX1=227&cropX2=2022&cropY1=22&cropY2=1817",
+        "state": "California",
+        "uri": "larry-page",
+        "abouts": [
+            "Page has avoided public appearances since Sundar Pichai became Google's CEO, including Alphabet's 2019 shareholders meeting -- much to investors' chagrin.",
+            "Page is a clean energy advocate; his Palo Alto home uses fuel cells and geothermal energy."
+        ],
+        "bios": [
+            "Larry Page stepped down as CEO of Alphabet, the parent of Google, in December 2019 but remains a board member and a controlling shareholder.",
+            "He cofounded Google in 1998 with fellow Stanford Ph.D. student Sergey Brin.",
+            "With Brin, Page invented Google's PageRank algorithm, which powers the search engine.",
+            "Page was CEO until 2001, when Eric Schmidt took over, and then from 2011 until 2015, when he became CEO of Google's new parent company Alphabet.",
+            "He is a founding investor in space exploration company Planetary Resources and is also funding \"flying car\" startups Kitty Hawk and Opener."
+        ],
+        "csfDisplayFields": [
+            "rank",
+            "age",
+            "source",
+            "finalWorth",
+            "personName",
+            "bios",
+            "bio",
+            "countryOfCitizenship"
+        ],
+        "financialAssets": [
+            {
+                "currentPrice": 98.68,
+                "exchangeRate": 1,
+                "numberOfShares": 389051160,
+                "sharePrice": 98.68,
+                "companyName": "Alphabet",
+                "currencyCode": "USD",
+                "exchange": "NASDAQ",
+                "ticker": "GOOGL-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 99.57,
+                "exchangeRate": 1,
+                "numberOfShares": 390272280,
+                "sharePrice": 99.57,
+                "companyName": "Google Inc. (Cl C)",
+                "currencyCode": "USD",
+                "exchange": "NASDAQ",
+                "ticker": "GOOG-US",
+                "interactive": true
+            }
+        ],
+        "industries": [
+            "Technology"
+        ],
+        "person": {
+            "name": "Larry Page",
+            "squareImage": "//specials-images.forbesimg.com/imageserve/5c76bcaaa7ea43100043c836/416x416.jpg?background=000000&cropX1=227&cropX2=2022&cropY1=22&cropY2=1817",
+            "uri": "larry-page",
+            "imageExists": true
+        },
+        "bioSuppress": false,
+        "familyList": false,
+        "imageExists": true,
+        "interactive": true,
+        "visible": true,
+        "wealthList": false
+    },
+    {
+        "archivedWorth": 90700,
+        "birthDate": -400896000000,
+        "date": 725846400000,
+        "estWorthPrev": 86151.424953,
+        "finalWorth": 85211.394,
+        "position": 9,
+        "privateAssetsWorth": 2058.427195,
+        "rank": 9,
+        "timestamp": 1665389101730,
+        "version": 734400,
+        "year": 0,
+        "bio": "",
+        "city": "Mumbai",
+        "countryOfCitizenship": "India",
+        "gender": "M",
+        "lastName": "Ambani",
+        "listUri": "rtb",
+        "name": "Real-Time Billionaires",
+        "naturalId": "faris/35/0/7409",
+        "personName": "Mukesh Ambani",
+        "source": "diversified",
+        "squareImage": "//specials-images.forbesimg.com/imageserve/5c7d7829a7ea434b351ba0b6/416x416.jpg?background=000000&cropX1=206&cropX2=2043&cropY1=250&cropY2=2089",
+        "uri": "mukesh-ambani",
+        "abouts": [
+            "During the Covid-19 lockdown, Ambani raised more than $20 billion selling a third of Jio to a string of investors, such as Facebook and Google.",
+            "Reliance owns Network18, a licensee of Forbes Media.",
+            "Ambani's U.S.-educated daughter Isha's marriage to fellow billionaire Ajay Piramal's son in December 2018 drew 10,000 guests, including Hillary Clinton.",
+            "Reliance Industries bought the Mandarin Oriental hotel in New York for $98 million."
+        ],
+        "bios": [
+            "Mukesh Ambani chairs and runs $104 billion (revenue) Reliance Industries, which has interests in petrochemicals, oil and gas, telecom and retail.",
+            "Reliance was founded by his late father Dhirubhai Ambani, a yarn trader, in 1966 as a small textile manufacturer.After his father's death in 2002, Ambani and his younger sibling Anil divvied up the family empire.",
+            "Reliance sparked a telecom price war with the launch of 4G phone and broadband service Jio in 2016. Today, it has more than 420 million subscribers and is readying to launch 5G services.",
+            "Ambani is pivoting Reliance into green energy. The company will be investing $80 billion over the next 10-15 years on renewable energy and building a new complex next to its refinery.",
+            "Ambani has spelled out his succession plan: son Akash is now chairman of Reliance Jio; daughter Isha oversees retail and younger son Anant has been inducted into the new energy business."
+        ],
+        "csfDisplayFields": [
+            "rank",
+            "age",
+            "source",
+            "finalWorth",
+            "personName",
+            "bios",
+            "bio",
+            "countryOfCitizenship"
+        ],
+        "financialAssets": [
+            {
+                "exchangeRate": 82.3281,
+                "numberOfShares": 2845255000,
+                "sharePrice": 29.55552235506467,
+                "companyName": "Reliance Industries Ltd.",
+                "currencyCode": "INR",
+                "exchange": "BSE INDIA",
+                "ticker": "500325-IN",
+                "interactive": false
+            }
+        ],
+        "industries": [
+            "Diversified"
+        ],
+        "person": {
+            "name": "Mukesh Ambani",
+            "squareImage": "//specials-images.forbesimg.com/imageserve/5c7d7829a7ea434b351ba0b6/416x416.jpg?background=000000&cropX1=206&cropX2=2043&cropY1=250&cropY2=2089",
+            "uri": "mukesh-ambani",
+            "imageExists": true
+        },
+        "bioSuppress": false,
+        "familyList": false,
+        "imageExists": true,
+        "interactive": false,
+        "visible": true,
+        "wealthList": false
+    },
+    {
+        "archivedWorth": 107000,
+        "birthDate": 114739200000,
+        "date": 725846400000,
+        "estWorthPrev": 82187.08564,
+        "finalWorth": 82187.086,
+        "position": 10,
+        "privateAssetsWorth": 8931.746643,
+        "rank": 10,
+        "timestamp": 1665389101730,
+        "version": 734389,
+        "year": 0,
+        "bio": "",
+        "city": "Los Altos",
+        "countryOfCitizenship": "United States",
+        "gender": "M",
+        "lastName": "Brin",
+        "listUri": "rtb",
+        "name": "Real-Time Billionaires",
+        "naturalId": "faris/35/0/7442",
+        "personName": "Sergey Brin",
+        "source": "Google",
+        "squareImage": "//specials-images.forbesimg.com/imageserve/5c7d7c254bbe6f78090d831f/416x416.jpg?background=000000&cropX1=475&cropX2=2887&cropY1=168&cropY2=2582",
+        "state": "California",
+        "uri": "sergey-brin",
+        "abouts": [
+            "The richest immigrant in America, Brin has been an outspoken critic of Trump's immigration ban.",
+            "Brin moved to the U.S. from Russia when he was 6 years old in the wake of anti-Semitism against his family."
+        ],
+        "bios": [
+            "Sergey Brin stepped down as president of Alphabet, parent company of Google, in December 2019 but remains a controller shareholder and a board member.",
+            "He cofounded Google with Larry Page in 1998 after the two met at Stanford University while studying for advanced degrees in computer science.",
+            "Google went public in 2004 and began trading as Alphabet, a newly created parent company, in 2015.",
+            "Brin was absent from public Alphabet events for much of 2019; he spent his time on Alphabet's moonshot research lab X.",
+            "Brin is reportedly funding a high-tech airship project."
+        ],
+        "csfDisplayFields": [
+            "rank",
+            "age",
+            "source",
+            "finalWorth",
+            "personName",
+            "bios",
+            "bio",
+            "countryOfCitizenship"
+        ],
+        "financialAssets": [
+            {
+                "currentPrice": 98.68,
+                "exchangeRate": 1,
+                "numberOfShares": 368906520,
+                "sharePrice": 98.68,
+                "companyName": "Alphabet",
+                "currencyCode": "USD",
+                "exchange": "NASDAQ",
+                "ticker": "GOOGL-US",
+                "interactive": false
+            },
+            {
+                "currentPrice": 99.57,
+                "exchangeRate": 1,
+                "numberOfShares": 370107900,
+                "sharePrice": 99.57,
+                "companyName": "Google Inc. (Cl C)",
+                "currencyCode": "USD",
+                "exchange": "NASDAQ",
+                "ticker": "GOOG-US",
+                "interactive": true
+            }
+        ],
+        "industries": [
+            "Technology"
+        ],
+        "person": {
+            "name": "Sergey Brin",
+            "squareImage": "//specials-images.forbesimg.com/imageserve/5c7d7c254bbe6f78090d831f/416x416.jpg?background=000000&cropX1=475&cropX2=2887&cropY1=168&cropY2=2582",
+            "uri": "sergey-brin",
+            "imageExists": true
+        },
+        "bioSuppress": false,
+        "familyList": false,
+        "imageExists": true,
+        "interactive": true,
+        "visible": true,
+        "wealthList": false
+    }
+]
