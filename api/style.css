@@ -1,16 +1,11 @@
-*,
-*::after, 
-*::before 
-{
+*,*::after,*::before {
     box-sizing: border-box;
     margin:0;
 }
-
 body{
     background-color: rgb(24, 16, 21);
     color: white;
 }
-
 .title{
     display: flex;
     justify-content: center;
@@ -25,22 +20,24 @@ body{
     justify-content: center;
  
 }
-
 .scrolloutput{
-    position: fixed;
+    top:50vh;
+    position: sticky;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .lesbourges{
     display: flex;
     flex-direction: column-reverse;
 }
 .rich{
-    height: 80vh;
+    height: 100vh;
     width: 90vw;
-    margin-top: 80vh;
+    margin-top: 100vh;
     background-color: #FF9E42;
 }
 .rich:last-child{
-    height: 80vh;
     margin-top: 0;
 }
 .container2{
