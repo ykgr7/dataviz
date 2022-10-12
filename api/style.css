@@ -29,17 +29,25 @@ body{
 .scrolloutput{
     position: fixed;
 }
-
-.rich{
-    height: 80vh;
-    margin-top: 80vh;
-    background-color: black;
+.lesbourges{
     display: flex;
     flex-direction: column-reverse;
 }
-
+.rich{
+    height: 80vh;
+    width: 90vw;
+    margin-top: 80vh;
+    background-color: #FF9E42;
+}
+.rich:last-child{
+    height: 80vh;
+    margin-top: 0;
+}
 .container2{
     display: flex;
+}
+.container1{
+    height: 100vh;
 }
 .moneybar{
     background-color: blue;
