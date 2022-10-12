@@ -3,6 +3,7 @@
 *::before 
 {
     box-sizing: border-box;
+    margin:0;
 }
 
 body{
@@ -23,4 +24,25 @@ body{
     align-items: center;
     justify-content: center;
  
+}
+
+.scrolloutput{
+    position: fixed;
+}
+
+.rich{
+    height: 80vh;
+    margin-top: 80vh;
+    background-color: black;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.container2{
+    display: flex;
+}
+.moneybar{
+    background-color: blue;
+    height: auto;
+    width: 10vw;
 }
