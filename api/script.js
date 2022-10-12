@@ -6,6 +6,6 @@ d3.json("/data.json")
     .data(datajson)
     .enter()
     .append("div")
-    .text(d => `numéro ${d.rank}: ${d.personName} à ${d.city}    aaaaWOOOOOOOOOOOOOOO`);
+    .text(d => `numéro ${d.rank}: ${d.personName} à ${d.city}`);
     
 });
