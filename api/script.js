@@ -1,7 +1,7 @@
 d3.json("/data.json")
 .then(datajson => {
 
-    d3.select("body")
+    d3.select(".lesbourges")
     .selectAll("div")
     .data(datajson)
     .enter()

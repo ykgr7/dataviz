@@ -5,24 +5,18 @@
     box-sizing: border-box;
 }
 
-@font-face {
-    font-family: 'titlefont';
-    src: url('./font/titlefont.TTF');
-}
-
-
 body{
     background-color: rgb(24, 16, 21);
     color: white;
-    font-family: 'titlefont.TTF';
 }
 
 .title{
-display: flex;
-justify-content: center;
-align-items: center;
-
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Bungee', cursive;
+    font-size: 2rem;
+    color: gold;
 }
 .imghome{
     display: flex;
