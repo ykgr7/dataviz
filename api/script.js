@@ -14,9 +14,9 @@ d3.json("/data.json")
       
       //scroll intéractif (💀💀 j'en pleure j'ai l'impression de complexifier le code)
       const scrollerOutput = document.querySelector(".scrolloutput");
-      const screenheight = window.innerHeight;
       
       document.addEventListener("scroll", (event) => {
+          let screenheight = window.innerHeight; // dynamique au changement de la page
           let scrollpercentage = (Math.round((scrollY*100)/screenheight))/100
 
           //a voir comment réduire le code, le code fait bloquer chiffre sur les div

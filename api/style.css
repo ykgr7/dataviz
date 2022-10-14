@@ -33,7 +33,7 @@ body{
 }
 .rich{
     height: 100vh;
-    width: 90vw;
+    width: 85vw;
     margin-top: 100vh;
     background-color: #FF9E42;
 }
@@ -49,5 +49,5 @@ body{
 .moneybar{
     background-color: blue;
     height: auto;
-    width: 10vw;
+    width: 15vw;
 }
