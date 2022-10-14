@@ -2,13 +2,13 @@
 d3.json("/data.json")
 .then(datajson => {
 
-    // d3.select(".lesbourges")
-    // .selectAll("div")
-    // .data(datajson)
-    // .enter()
-    // .append("div")
-    // .text(d => `numéro ${d.rank}: ${d.personName} à ${d.city} avec ${Math.round(d.finalWorth*10)/10} Billion dollars`)
-    // .attr("class","rich");
+    d3.select(".lesbourges")
+    .selectAll("div")
+    .data(datajson)
+    .enter()
+    .append("div")
+    .text(d => `numéro ${d.rank}: ${d.personName} à ${d.city} avec ${Math.round(d.finalWorth*10)/10} Billion dollars`)
+    .attr("class","rich");
 
 
       
