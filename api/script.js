@@ -7,14 +7,13 @@ d3.json("/data.json")
     .data(datajson)
     .enter()
     .append("div")
-    .text(d => `numéro ${d.rank}: ${d.personName} à ${d.city}`)
+    .text(d => `numéro ${d.rank}: ${d.personName} à ${d.city} avec ${Math.round(d.finalWorth*10)/10} Billion dollars`)
     .attr("class","rich");
 
 
       
       //scroll intéractif (💀💀 j'en pleure j'ai l'impression de complexifier le code)
       const scrollerOutput = document.querySelector(".scrolloutput");
-      const pageheight = document.body.clientHeight;
       const screenheight = window.innerHeight;
       
       document.addEventListener("scroll", (event) => {
@@ -67,7 +66,7 @@ d3.json("/data.json")
             d3.select(".scrolloutput")
             .style("font-size","1.2rem")
           }
-          if (scrollpercentage <= 19.5 && scrollpercentage >= 18.5) {
+          if (scrollpercentage >= 18.5) {
             var scrollCase = Math.round(datajson[0].finalWorth*10)/10
             d3.select(".scrolloutput")
             .style("font-size","1.2rem")
