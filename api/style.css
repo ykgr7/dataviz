@@ -6,22 +6,47 @@ body{
     color: white;
 }
 html {
-    -ms-scroll-snap-type: y mandatory;
-    scroll-snap-type: y mandatory;
     scroll-behavior: smooth;
+    scrollbar-width: none;
+    overflow: scroll;
+    overflow-x: hidden;
+    
+}
+::-webkit-scrollbar {
+    width: 0;  /* Remove scrollbar space */
+    background: transparent;  /* Optional: just make scrollbar invisible */
+}
+/* Optional: show position indicator in red */
+::-webkit-scrollbar-thumb {
+    background: #FF0000;
 }
 .title{
     display: flex;
     justify-content: center;
     align-items: center;
     font-family: 'Bungee', cursive;
-    font-size: 2rem;
+    font-size: 5rem;
     color: gold;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.400);
 }
-.imghome{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.neonText {
+    color: rgb(255, 255, 255);
+    text-shadow:
+        0 0 7px #ffd700,
+        0 0 10px #ffd700,
+        0 0 21px #ffd700,
+        0 0 42px #ffcc00,
+        0 0 82px #ffcc00,
+        0 0 92px #ffcc00,
+        0 0 102px #ffcc00,
+        0 0 151px #ffcc00;
+  }
+  .imghome{
+    background-image:url('img/breaking-bad-bill-burr-lying-money-kuby-1377555293e-1-2.gif');
+    background-repeat: no-repeat;
+    background-size: cover ;
+
 }
 .scrolloutput{
     top:50vh;
@@ -39,8 +64,6 @@ html {
     width: 85vw;
     margin-top: 100vh;
     background-color: #FF9E42;
-    scroll-snap-align: start;
-    scroll-snap-stop: always;
 }
 .rich:last-child{
     margin-top: 0;
