@@ -139,5 +139,9 @@ d3.json("/data.json")
           
         });
 });
+// ajout library AOS
+
+    AOS.init();
+
 
 
