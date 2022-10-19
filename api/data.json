@@ -157,7 +157,7 @@
         "naturalId": "faris/35/0/4800",
         "personName": "Bernard Arnault & family",
         "source": "LVMH",
-        "squareImage": "//specials-images.forbesimg.com/imageserve/5dc05518ca425400079c659f/416x416.jpg?background=000000&cropX1=0&cropX2=4000&cropY1=1209&cropY2=5212",
+        "squareImage": "https://specials-images.forbesimg.com/imageserve/5dc05518ca425400079c659f/416x416.jpg?background=000000&cropX1=0&cropX2=4000&cropY1=1209&cropY2=5212",
         "uri": "bernard-arnault",
         "abouts": [
             "Arnault apparently wooed his wife, Helene Mercier, a concert pianist, by playing Chopin and other classical composers on the piano.",
@@ -217,7 +217,7 @@
         ],
         "person": {
             "name": "Bernard Arnault & family",
-            "squareImage": "//specials-images.forbesimg.com/imageserve/5dc05518ca425400079c659f/416x416.jpg?background=000000&cropX1=0&cropX2=4000&cropY1=1209&cropY2=5212",
+            "squareImage": "https://specials-images.forbesimg.com/imageserve/5dc05518ca425400079c659f/416x416.jpg?background=000000&cropX1=0&cropX2=4000&cropY1=1209&cropY2=5212",
             "uri": "bernard-arnault",
             "imageExists": true
         },
@@ -811,7 +811,7 @@
         "naturalId": "faris/35/0/5381",
         "personName": "Warren Buffett",
         "source": "Berkshire Hathaway",
-        "squareImage": "//specials-images.forbesimg.com/imageserve/5babb7f1a7ea4342a948b79a/416x416.jpg?background=000000&cropX1=748&cropX2=3075&cropY1=1753&cropY2=4082",
+        "squareImage": "https://specials-images.forbesimg.com/imageserve/5babb7f1a7ea4342a948b79a/416x416.jpg?background=000000&cropX1=748&cropX2=3075&cropY1=1753&cropY2=4082",
         "state": "Nebraska",
         "uri": "warren-buffett",
         "abouts": [
@@ -875,7 +875,7 @@
         ],
         "person": {
             "name": "Warren Buffett",
-            "squareImage": "//specials-images.forbesimg.com/imageserve/5babb7f1a7ea4342a948b79a/416x416.jpg?background=000000&cropX1=748&cropX2=3075&cropY1=1753&cropY2=4082",
+            "squareImage": "https://specials-images.forbesimg.com/imageserve/5babb7f1a7ea4342a948b79a/416x416.jpg?background=000000&cropX1=748&cropX2=3075&cropY1=1753&cropY2=4082",
             "uri": "warren-buffett",
             "imageExists": true
         },
@@ -908,7 +908,7 @@
         "naturalId": "faris/35/0/5574",
         "personName": "Larry Ellison",
         "source": "Oracle",
-        "squareImage": "//specials-images.forbesimg.com/imageserve/5e8b62cfc095010007bffea0/416x416.jpg?background=000000&cropX1=0&cropX2=4529&cropY1=652&cropY2=5184",
+        "squareImage": "https://specials-images.forbesimg.com/imageserve/5e8b62cfc095010007bffea0/416x416.jpg?background=000000&cropX1=0&cropX2=4529&cropY1=652&cropY2=5184",
         "state": "Hawaii",
         "uri": "larry-ellison",
         "abouts": [
@@ -1021,7 +1021,7 @@
         ],
         "person": {
             "name": "Larry Ellison",
-            "squareImage": "//specials-images.forbesimg.com/imageserve/5e8b62cfc095010007bffea0/416x416.jpg?background=000000&cropX1=0&cropX2=4529&cropY1=652&cropY2=5184",
+            "squareImage": "https://specials-images.forbesimg.com/imageserve/5e8b62cfc095010007bffea0/416x416.jpg?background=000000&cropX1=0&cropX2=4529&cropY1=652&cropY2=5184",
             "uri": "larry-ellison",
             "imageExists": true
         },
@@ -1054,7 +1054,7 @@
         "naturalId": "faris/35/0/7441",
         "personName": "Larry Page",
         "source": "Google",
-        "squareImage": "//specials-images.forbesimg.com/imageserve/5c76bcaaa7ea43100043c836/416x416.jpg?background=000000&cropX1=227&cropX2=2022&cropY1=22&cropY2=1817",
+        "squareImage": "https://specials-images.forbesimg.com/imageserve/5c76bcaaa7ea43100043c836/416x416.jpg?background=000000&cropX1=227&cropX2=2022&cropY1=22&cropY2=1817",
         "state": "California",
         "uri": "larry-page",
         "abouts": [
@@ -1107,7 +1107,7 @@
         ],
         "person": {
             "name": "Larry Page",
-            "squareImage": "//specials-images.forbesimg.com/imageserve/5c76bcaaa7ea43100043c836/416x416.jpg?background=000000&cropX1=227&cropX2=2022&cropY1=22&cropY2=1817",
+            "squareImage": "https://specials-images.forbesimg.com/imageserve/5c76bcaaa7ea43100043c836/416x416.jpg?background=000000&cropX1=227&cropX2=2022&cropY1=22&cropY2=1817",
             "uri": "larry-page",
             "imageExists": true
         },
@@ -1140,7 +1140,7 @@
         "naturalId": "faris/35/0/7409",
         "personName": "Mukesh Ambani",
         "source": "diversified",
-        "squareImage": "//specials-images.forbesimg.com/imageserve/5c7d7829a7ea434b351ba0b6/416x416.jpg?background=000000&cropX1=206&cropX2=2043&cropY1=250&cropY2=2089",
+        "squareImage": "https://specials-images.forbesimg.com/imageserve/5c7d7829a7ea434b351ba0b6/416x416.jpg?background=000000&cropX1=206&cropX2=2043&cropY1=250&cropY2=2089",
         "uri": "mukesh-ambani",
         "abouts": [
             "During the Covid-19 lockdown, Ambani raised more than $20 billion selling a third of Jio to a string of investors, such as Facebook and Google.",
@@ -1182,7 +1182,7 @@
         ],
         "person": {
             "name": "Mukesh Ambani",
-            "squareImage": "//specials-images.forbesimg.com/imageserve/5c7d7829a7ea434b351ba0b6/416x416.jpg?background=000000&cropX1=206&cropX2=2043&cropY1=250&cropY2=2089",
+            "squareImage": "https://specials-images.forbesimg.com/imageserve/5c7d7829a7ea434b351ba0b6/416x416.jpg?background=000000&cropX1=206&cropX2=2043&cropY1=250&cropY2=2089",
             "uri": "mukesh-ambani",
             "imageExists": true
         },
@@ -1215,7 +1215,7 @@
         "naturalId": "faris/35/0/7442",
         "personName": "Sergey Brin",
         "source": "Google",
-        "squareImage": "//specials-images.forbesimg.com/imageserve/5c7d7c254bbe6f78090d831f/416x416.jpg?background=000000&cropX1=475&cropX2=2887&cropY1=168&cropY2=2582",
+        "squareImage": "https://specials-images.forbesimg.com/imageserve/5c7d7c254bbe6f78090d831f/416x416.jpg?background=000000&cropX1=475&cropX2=2887&cropY1=168&cropY2=2582",
         "state": "California",
         "uri": "sergey-brin",
         "abouts": [
@@ -1268,7 +1268,7 @@
         ],
         "person": {
             "name": "Sergey Brin",
-            "squareImage": "//specials-images.forbesimg.com/imageserve/5c7d7c254bbe6f78090d831f/416x416.jpg?background=000000&cropX1=475&cropX2=2887&cropY1=168&cropY2=2582",
+            "squareImage": "https://specials-images.forbesimg.com/imageserve/5c7d7c254bbe6f78090d831f/416x416.jpg?background=000000&cropX1=475&cropX2=2887&cropY1=168&cropY2=2582",
             "uri": "sergey-brin",
             "imageExists": true
         },

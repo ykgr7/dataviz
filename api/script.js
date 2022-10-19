@@ -19,6 +19,12 @@ d3.json("/data.json")
     // d3.select(".rich a")
     // .remove();
 
+    // d3.selectAll(".rich")
+    // .data(datajson)
+    // .append("img")
+    // .attr("src", d => `${d.squareImage}`)
+    // .attr("alt", d => `Portait de ${d.personName}`);
+
 
       
       //scroll intéractif (💀💀 j'en pleure j'ai l'impression de complexifier le code)
