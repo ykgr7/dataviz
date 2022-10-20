@@ -12,6 +12,18 @@ html {
     overflow-x: hidden;
     
 }
+.scrollup{
+    bottom: 50px;
+    right: 50px;
+    position: fixed;
+    z-index: 99;
+    text-decoration: none;
+    font-size: 0rem;
+    visibility: hidden;
+}
+.popup{
+    visibility: hidden;
+}
 ::-webkit-scrollbar {
     width: 0;  /* Remove scrollbar space */
     background: transparent;  /* Optional: just make scrollbar invisible */
@@ -28,7 +40,7 @@ html {
     font-size: 5rem;
     color: gold;
     height: 100vh;
-    background-color: rgba(0, 0, 0, 0.400);
+    background: linear-gradient(0deg, rgba(0,5,77,1) 0%, rgba(0,0,0,0.5970588919161415) 25%);
 }
 .neonText {
     color: rgb(255, 255, 255);

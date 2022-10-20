@@ -19,12 +19,28 @@ d3.json("/data.json")
     // d3.select(".rich a")
     // .remove();
 
+    // about=
     // d3.selectAll(".rich")
     // .data(datajson)
     // .append("img")
     // .attr("src", d => `${d.squareImage}`)
     // .attr("alt", d => `Portait de ${d.personName}`);
 
+    // d3.selectAll(".rich")
+    // .data(datajson)
+    // .append("div")
+    // .attr("class","popup")
+    // .text(d => `${d.abouts}`);
+
+    // about.on("mouseenter", function(e,d){
+    //   d3.selectAll(".popup")
+    //   .style("visibility","visible")
+    // })
+
+    // about.on("mouseleave", function(e,d){
+    //   d3.selectAll(".popup")
+    //   .style("visibility","hidden")
+    // })
 
       
       //scroll intéractif (💀💀 j'en pleure j'ai l'impression de complexifier le code)
@@ -39,6 +55,12 @@ d3.json("/data.json")
             var scrollCase = Math.round(datajson[9].finalWorth*10)/10
           d3.select(".scrolloutput")
           .style("font-size","1.2rem")
+          .style("transition-duration","0.2s");
+
+          d3.select(".scrollup")
+          .style("visibility","hidden")
+          .style("font-size","0")
+          .style("transition-duration","0.1s");
           }
           
           if (scrollpercentage <= 3.5 && scrollpercentage >= 2.5) {
@@ -87,13 +109,35 @@ d3.json("/data.json")
             .style("font-size","1.2rem")
           }
 
+          //haut de page apparait
+          if (scrollpercentage > 1.5) {
+            scrollupselect=
+            d3.select(".scrollup")
+            .style("font-size","2.5rem")
+            .style("visibility","visible")
+            .style("transition-duration","0.1s");
+
+            scrollupselect.on("mouseenter", function(e,d){
+              d3.select(".scrollup")
+              .style("font-size","3rem")
+              .style("opacity","1")
+              .style("transition-duration","0.2s");
+            })
+
+            scrollupselect.on("mouseleave", function(e,d){
+              d3.select(".scrollup")
+              .style("font-size","2.5rem")
+              .style("opacity","0.5")
+              .style("transition-duration","0.2s");
+            })
+          }
 
           //incrément hors div, code hyper long doit y avoir plus court.
 
           if (scrollpercentage > 1.5 && scrollpercentage < 2.5) {
             var scrollCase = Math.round((datajson[9].finalWorth +((scrollpercentage - 1.5)*((datajson[8].finalWorth - datajson[9].finalWorth))))*10)/10
             d3.select(".scrolloutput")
-            .style("font-size","1rem")
+            .style("font-size","1rem");
           }
           if (scrollpercentage > 3.5 && scrollpercentage < 4.5) {
             var scrollCase = Math.round((datajson[8].finalWorth +((scrollpercentage - 3.5)*((datajson[7].finalWorth - datajson[8].finalWorth))))*10)/10
