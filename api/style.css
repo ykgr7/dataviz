@@ -125,9 +125,13 @@ html {
 }
 .jaune1-alt{
     border: solid 3px yellow;
+    visibility: visible;
+    position: absolute;
 }
 .jaune2-alt{
     border: solid 3px yellow;
+    visibility: visible;
+    position: absolute;
 }
 .imgdesc{
     height: 5vh;
