@@ -2,45 +2,126 @@
 d3.json("/data.json")
 .then(datajson => {
 
-    // d3.select(".lesbourges")
-    // .selectAll("div")
-    // .data(datajson)
-    // .enter()
-    // .append("div")
-    // .text(d => `numéro ${d.rank}: ${d.personName} à ${d.city} avec ${Math.round(d.finalWorth*10)/10} Billion dollars`)
-    // .attr("class","rich")
-    // .attr("id",(d,i) => `rich${i}`);
+    d3.select(".lesbourges")
+    .selectAll("div")
+    .data(datajson)
+    .enter()
+    .append("div")
+    .attr("class","rich")
+    .attr("id",(d,i) => `rich${i}`);
+
+    d3.selectAll(".rich")
+    .append("div")
+    .attr("class","rouge")
+
+    d3.selectAll(".rouge")
+    .append("div")
+    .attr("class","violet1")
+    d3.selectAll(".rouge")
+    .append("div")
+    .attr("class","violet2")
+
+    d3.selectAll(".violet1")
+    .append("div")
+    .attr("class","vert1")
+    d3.selectAll(".violet1")
+    .append("div")
+    .attr("class","vert2")
+
+    d3.selectAll(".vert1")
+    .data(datajson)
+    .append("p")
+    .text(d => `${d.rank}`)
+
+    profile=
+    d3.selectAll(".vert2")
+    .append("div")
+    .attr("class","jaune1");
+    desc=
+    d3.selectAll(".vert2")
+    .append("div")
+    .attr("class","jaune2");
     
-    // d3.selectAll(".rich")
-    // .append("a")
-    // .text('scroll suivant')
-    // .attr("href",(d,i) => `#rich${i-1}`)
+    d3.selectAll(".jaune1")
+    .append("img")
+    .attr("src", "img/person.png")
+    .attr("class","imgperson");
+    d3.selectAll(".jaune2")
+    .append("img")
+    .attr("src", "img/description.webp")
+    .attr("class","imgdesc");
 
-    // d3.select(".rich a")
-    // .remove();
 
-    // about=
-    // d3.selectAll(".rich")
-    // .data(datajson)
-    // .append("img")
-    // .attr("src", d => `${d.squareImage}`)
-    // .attr("alt", d => `Portait de ${d.personName}`);
+    d3.selectAll(".violet2")
+    .append("div")
+    .attr("class","jaune1-alt");
+    d3.selectAll(".violet2")
+    .append("div")
+    .attr("class","jaune2-alt");
 
-    // d3.selectAll(".rich")
-    // .data(datajson)
-    // .append("div")
-    // .attr("class","popup")
-    // .text(d => `${d.abouts}`);
+    d3.selectAll(".jaune1-alt")
+    .data(datajson)
+    .append("img")
+    .attr("src", d => `${d.squareImage}`)
+    .attr("class","pdp");
 
-    // about.on("mouseenter", function(e,d){
-    //   d3.selectAll(".popup")
-    //   .style("visibility","visible")
-    // })
+    d3.selectAll(".jaune1-alt")
+    .data(datajson)
+    .append("p")
+    .text(d => `${d.personName}`)
+    d3.selectAll(".jaune1-alt")
+    .data(datajson)
+    .append("p")
+    .text(d => `$ ${Math.round(d.finalWorth*10)/10} Billion`)
+    d3.selectAll(".jaune1-alt")
+    .data(datajson)
+    .append("p")
+    .text(d => `Lives in ${d.countryOfCitizenship}`)
 
-    // about.on("mouseleave", function(e,d){
-    //   d3.selectAll(".popup")
-    //   .style("visibility","hidden")
-    // })
+    d3.selectAll(".jaune2-alt")
+    .data(datajson)
+    .append("p")
+    .text(d => `${d.abouts}`)
+
+
+    d3.selectAll(".rich")
+    .append("a")
+    .text('Next')
+    .attr("class","buttonnext")
+    .attr("href",(d,i) => `#rich${i-1}`)
+
+    d3.select(".rich a")
+    .remove();
+
+    profile.on("mouseenter", function(e,d){
+      d3.selectAll(".jaune1-alt")
+      .style("visibility","visible")
+      .style("opacity","1")
+      d3.selectAll(".violet2")
+      .style("background-color","#1e1727")
+    })
+    profile.on("mouseleave", function(e,d){
+      d3.selectAll(".jaune1-alt")
+      .style("visibility","hidden")
+      .style("opacity","0")
+      d3.selectAll(".violet2")
+      .style("background-color","#0c0910")
+    })
+
+    desc.on("mouseenter", function(e,d){
+      d3.selectAll(".jaune2-alt")
+      .style("visibility","visible")
+      .style("opacity","1")
+      d3.selectAll(".violet2")
+      .style("background-color","#1e1727")
+    })
+    desc.on("mouseleave", function(e,d){
+      d3.selectAll(".jaune2-alt")
+      .style("visibility","hidden")
+      .style("opacity","0")
+      d3.selectAll(".violet2")
+      .style("background-color","#0c0910")
+    })
 
       
       //scroll intéractif (💀💀 j'en pleure j'ai l'impression de complexifier le code)
