@@ -32,16 +32,6 @@ d3.json("/data.json")
     // .attr("class","popup")
     // .text(d => `${d.abouts}`);
 
-    // about.on("mouseenter", function(e,d){
-    //   d3.selectAll(".popup")
-    //   .style("visibility","visible")
-    // })
-
-    // about.on("mouseleave", function(e,d){
-    //   d3.selectAll(".popup")
-    //   .style("visibility","hidden")
-    // })
-
       
       //scroll intéractif (💀💀 j'en pleure j'ai l'impression de complexifier le code)
       const scrollerOutput = document.querySelector(".scrolloutput");
