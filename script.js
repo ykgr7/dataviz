@@ -1,5 +1,5 @@
 //recup de données JSON et mise en forme.
-d3.json("/data.json")
+d3.json("data.json")
 .then(datajson => {
 
     d3.select(".lesbourges")
